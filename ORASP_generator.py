@@ -171,7 +171,7 @@ def generate_operation_durations(nb_operations):
 # File Generation
 # -------------------------
 
-def create_instance(nb_operations, nb_surgeons, nb_rooms, Tmax=45):
+def create_instance(nb_operations, nb_surgeons, nb_rooms, Tmax=40):
     instance = "\n"
     instance += define_sets(nb_surgeons, nb_rooms, nb_operations)
     instance += "\n"
