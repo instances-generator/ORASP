@@ -1,0 +1,7 @@
+
+This  folder contains all randomly generated instances used in "An Efficient Divide-and-Conquer Enhanced Metaheuristic for Operating Room Scheduling: A Real-World Case Study" of Chouraqui et al. 2026,
+that were all generated using the (untranslated version of the) generator given in the main folder.
+
+The G1 set containing all the instances with less or equal than 100 operations, the G2 the one from 150 to 200 operations as well as two instances with 1000 operations
+
+The file 
